@@ -23,7 +23,7 @@ A brief list of many features provided by this module can be found below.
 
 ### Other
 - Black Planet (a beautiful boot animation) [^11]
-- Following bloatware removed (on top of all the replacements listed above):
+- The following bloatware removed (on top of all the replacements listed above):
 	- EasterEgg
 	- Stk
 	- HotwordEnrollmentOKGoogleHEXAGON

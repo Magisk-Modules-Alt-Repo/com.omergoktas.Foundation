@@ -61,7 +61,7 @@ function uninstall {
 
 function install {
   for d in $MODPATH/system/app/*/ $MODPATH/system/priv-app/*/ ; do
-    pm install --user 0 "$d/$(basename $d).apk" &>/dev/null
+    pm install -g --user 0 "$d/$(basename $d).apk" &>/dev/null
     ui_print "    Installed: $(basename $d).apk"
     sleep 0.1
   done
