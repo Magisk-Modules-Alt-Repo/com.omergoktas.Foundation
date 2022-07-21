@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <allow-in-power-save package="com.google.android.gms"/>
+    <allow-in-power-save package="com.simplemobiletools.smsmessenger"/>
+    <allow-in-data-usage-save package="com.google.android.gms"/>
+    <allow-unthrottled-location package="com.google.android.gms"/>
+    <hidden-api-whitelisted-app package="me.zhanghai.android.files"/>
+</config>
