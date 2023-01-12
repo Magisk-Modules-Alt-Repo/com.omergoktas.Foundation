@@ -1,7 +1,7 @@
 id=com.omergoktas.Foundation
 name=Foundation
-version=v1.1
-versionCode=101
+version=v1.2
+versionCode=102
 author=omergoktas
 description=Magisk module comprising essential apps (including a patched version of Google Play Store compatible with microG) and convenient settings for vanilla Android builds.
-updateJson=https://github.com/omergoktas/Foundation/raw/master/update.json
+updateJson=https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/raw/master/update.json
